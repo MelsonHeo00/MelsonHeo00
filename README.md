@@ -15,7 +15,5 @@ As an aspiring data analyst with a knack for turning complex datasets into actio
 - **Technical Skills:** Excel, Tableau, SQL, R, Python
 - **Certifications:** Well-versed with Google Analytics and specialized in measurable digital marketing strategies.
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourUsername&show_icons=true)
-
 🔗 Let's connect! Find me on [LinkedIn](linkedin.com/in/melson-heo) or explore my projects right here on GitHub.
 
