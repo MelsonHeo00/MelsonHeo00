@@ -1,19 +1,20 @@
 # Hello, I'm Melson Heo! 👋
 
-As an aspiring data analyst with a knack for turning complex datasets into actionable insights, I'm dedicated to enhancing decision-making through data.
+Passionate about harnessing data to solve complex challenges, I blend my knowledge in computer engineering and economics to develop insightful, data-driven solutions.
 
 ## 🌟 My Focus
-- **Data Visualization and Analysis:** Harnessing tools like SQL, Python, and Tableau, I enjoy unraveling data stories and sharing knowledge through seminars and mentorship.
-- **Digital Strategy and Optimization:** With experience in digital marketing, I apply analytical approaches to optimize campaign performance and audience engagement.
-- **Industry-Specific Research:** Particularly in gaming and esports, my analyses help shape better user engagement strategies.
+- **Analytical Excellence:** I specialize in transforming raw data into clear, actionable insights using a blend of Python, SQL, and Tableau.
+- **Campaign Optimization:** With a strategic mindset, I apply my analytical skills to enhance digital marketing efforts and campaign performance across diverse platforms.
+- **Educational Leadership:** As a mentor and instructor, I am committed to elevating others' understanding and application of data analytics through dynamic teaching methods.
 
-## 🎯 Highlighted Initiatives
-- **Community Insight Projects:** Conducting studies to address community needs and influence policy through data-driven narratives.
-- **Technical Workshops:** Facilitating workshops aimed at boosting technical and analytical skills across various tools.
+## 🎯 Professional Highlights
+- **Data-Driven Initiatives:** Whether it's improving restaurant compliance or optimizing digital campaigns, my projects always aim to add significant value by addressing real-world problems.
+- **Interactive Learning:** I engage in creating and refining educational content that not only instructs but also inspires.
 
 ## 🛠 Core Competencies
-- **Technical Skills:** Excel, Tableau, SQL, R, Python
-- **Certifications:** Well-versed with Google Analytics and specialized in measurable digital marketing strategies.
+- **Technical Skills:** Expert in leveraging tools like Excel, Tableau, and various programming languages to analyze and visualize data.
+- **Professional Development:** Dedicated to continual learning and professional growth, helping both myself and others stay at the forefront of technology.
 
-🔗 Let's connect! Find me on [LinkedIn](linkedin.com/in/melson-heo) or explore my projects right here on GitHub.
+🔗 Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/melson-heo/) or explore my projects right here on GitHub.
+
 
